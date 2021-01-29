@@ -19,4 +19,4 @@ Inspired by how emotions impact and change your breathing patterns.  I wanted to
 -As user continue clicking gradually the ellipses start the slow down and screen become calm.
 
 
-link for prsentation: https://docs.google.com/presentation/d/1zD2mzFm0mxeMJtpd_nvtLuLM16axLZD3FM8xk2c4f3M/edit?usp=sharing
+link for presentation: https://docs.google.com/presentation/d/1zD2mzFm0mxeMJtpd_nvtLuLM16axLZD3FM8xk2c4f3M/edit?usp=sharing
