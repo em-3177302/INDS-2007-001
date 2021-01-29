@@ -17,3 +17,6 @@ Inspired by how emotions impact and change your breathing patterns.  I wanted to
 -When angry it is easy to remain angry and get consumed by it which is why user has to pressed the mouse in order to start the calming down process. 
 -As user continue to press the mouse it represent the effort they made in their mind or body to let go of their anger. 
 -As user continue clicking gradually the ellipses start the slow down and screen become calm.
+
+
+link for prsentation: https://docs.google.com/presentation/d/1zD2mzFm0mxeMJtpd_nvtLuLM16axLZD3FM8xk2c4f3M/edit?usp=sharing
