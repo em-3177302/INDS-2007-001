@@ -18,5 +18,6 @@ Inspired by how emotions impact and change your breathing patterns.  I wanted to
 -As user continue to press the mouse it represent the effort they made in their mind or body to let go of their anger. 
 -As user continue clicking gradually the ellipses start the slow down and screen become calm.
 
-
+NOTES:
+express_yourself_3177302 is where the code is.
 link for presentation: https://docs.google.com/presentation/d/1zD2mzFm0mxeMJtpd_nvtLuLM16axLZD3FM8xk2c4f3M/edit?usp=sharing
